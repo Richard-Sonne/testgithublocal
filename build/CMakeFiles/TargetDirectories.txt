@@ -1,0 +1,7 @@
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/install/strip.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/install/local.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/install.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/list_install_components.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/rebuild_cache.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/edit_cache.dir
+/home/rx-sun/projects/testgithublocal/build/CMakeFiles/testgithublocal.dir
